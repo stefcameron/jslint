@@ -6,6 +6,6 @@
  *  https://github.com/jscs-dev/node-jscs/blob/master/lib/config/configuration.js
  */
 module.exports = function (conf) {
-   // register plugins
-   conf.registerRule(require('./rules/sc-validate-indentation.js'));
+  // register plugins
+  conf.registerRule(require('./rules/sc-validate-indentation.js'));
 };

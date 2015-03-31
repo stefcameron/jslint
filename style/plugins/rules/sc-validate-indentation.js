@@ -2,7 +2,7 @@
 
 // Default indentation size.
 // @type {Number}
-var DEFAULT_SIZE = 3;
+var DEFAULT_SIZE = 2;
 
 // Default JSDoc allowance.
 // @type {Boolean}
